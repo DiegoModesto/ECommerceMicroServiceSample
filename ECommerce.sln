@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29609.76
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ecommerce.Api.Products", "src\Ecommerce.API.Products\Ecommerce.Api.Products.csproj", "{62C1F263-A2DB-46F8-9732-919DBE385529}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ecommerce.Api.Products", "src\Ecommerce.Api.Products\Ecommerce.Api.Products.csproj", "{62C1F263-A2DB-46F8-9732-919DBE385529}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ECommerce.Api.Customers", "src\ECommerce.Api.Customers\ECommerce.Api.Customers.csproj", "{58D85DB4-AB0D-414F-B8B5-012DE47C866A}"
 EndProject
@@ -11,7 +11,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ECommerce.Api.Orders", "src
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ECommerce.Api.Search", "src\ECommerce.Api.Search\ECommerce.Api.Search.csproj", "{C6C01121-5795-4837-8096-41782D81F363}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ECommerce.Api.Products.Tests", "src\ECommerce.Epi.Products.Tests\ECommerce.Api.Products.Tests.csproj", "{A42E4914-9343-4E0B-A7BE-E5AF0A57BEB1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ECommerce.Api.Products.Tests", "src\ECommerce.Api.Products.Tests\ECommerce.Api.Products.Tests.csproj", "{A42E4914-9343-4E0B-A7BE-E5AF0A57BEB1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
