@@ -2,6 +2,8 @@
 
   <PropertyGroup>
     <TargetFramework>netcoreapp3.1</TargetFramework>
+    <AssemblyName>Ecommerce.Api.Products</AssemblyName>
+    <RootNamespace>Ecommerce.Api.Products</RootNamespace>
   </PropertyGroup>
 
   <ItemGroup>

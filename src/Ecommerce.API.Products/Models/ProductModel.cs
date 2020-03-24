@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Ecommerce.API.Products.Models
+namespace Ecommerce.Api.Products.Models
 {
     public class ProductModel
     {

@@ -1,6 +1,6 @@
 ﻿using Microsoft.EntityFrameworkCore;
 
-namespace Ecommerce.API.Products.Db
+namespace Ecommerce.Api.Products.Db
 {
     public class ProductsDbContext : DbContext
     {

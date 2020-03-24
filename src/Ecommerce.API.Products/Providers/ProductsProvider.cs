@@ -1,7 +1,7 @@
 ﻿using AutoMapper;
-using Ecommerce.API.Products.Db;
-using Ecommerce.API.Products.Interfaces;
-using Ecommerce.API.Products.Models;
+using Ecommerce.Api.Products.Db;
+using Ecommerce.Api.Products.Interfaces;
+using Ecommerce.Api.Products.Models;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Logging;
 using System;
@@ -9,7 +9,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace Ecommerce.API.Products.Providers
+namespace Ecommerce.Api.Products.Providers
 {
     public class ProductsProvider : IProductsProvider
     {

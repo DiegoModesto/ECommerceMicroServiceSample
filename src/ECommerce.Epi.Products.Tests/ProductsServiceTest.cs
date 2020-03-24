@@ -1,14 +1,14 @@
 using AutoMapper;
-using Ecommerce.API.Products.Db;
-using Ecommerce.API.Products.Profiles;
-using Ecommerce.API.Products.Providers;
+using Ecommerce.Api.Products.Db;
+using Ecommerce.Api.Products.Profiles;
+using Ecommerce.Api.Products.Providers;
 using Microsoft.EntityFrameworkCore;
 using System;
 using System.Linq;
 using System.Threading.Tasks;
 using Xunit;
 
-namespace ECommerce.Epi.Products.Tests
+namespace ECommerce.Api.Products.Tests
 {
     public class ProductsServiceTest
     {

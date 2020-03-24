@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Ecommerce.API.Products.Db
+namespace Ecommerce.Api.Products.Db
 {
     public class ProductEntity
     {

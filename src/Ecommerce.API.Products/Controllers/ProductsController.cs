@@ -1,9 +1,9 @@
-﻿using Ecommerce.API.Products.Interfaces;
+﻿using Ecommerce.Api.Products.Interfaces;
 using Microsoft.AspNetCore.Mvc;
 using System;
 using System.Threading.Tasks;
 
-namespace Ecommerce.API.Products.Controllers
+namespace Ecommerce.Api.Products.Controllers
 {
     [ApiController]
     [Route("api/products")]
